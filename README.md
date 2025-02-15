@@ -1,6 +1,5 @@
 This repository contains the replication study of Unstructured clinical notes within 24 hours to predict 30-day mortality in adult ICU patients. The study employs the MIMIC-III dataset and leverages the XGBoost algorithm for predictive modeling. The project replicates the approach taken by Mahbub et al., focusing on predicting 30-day mortality using clinical notes documented during the first 24 hours of ICU admission.
-Overview
-This project demonstrates how unstructured clinical notes can be processed and utilized to predict ICU patient outcomes. Using the MIMIC-III dataset, the model predicts 30-day mortality with an AUROC score of 0.85, highlighting the potential of electronic health records (EHRs) in supporting clinical decision-making.
+
 
 Key Features:
 
